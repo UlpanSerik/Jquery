@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	padding-top: 20px;
+	width: 500px;
+	margin: 0 auto;
+}
+.example{
+	margin-top: 40px;
+	width: 500px;
+	height: 200px;
+	background-color: blue;
+}
